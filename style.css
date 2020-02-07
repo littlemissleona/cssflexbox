@@ -22,16 +22,6 @@
 .box9 { background:#c56cf0;}
 .box10 { background:#18dcff;}
 
-.container{
+.container {
     display: flex;
-
-    flex-direction: column;
-    min-height: 100vh;
-
-    justify-content: flex-start; /*default*/
-    justify-content: flex-end;
-    justify-content: center;
-
-    justify-content: space-between; 
-    justify-content: space-around;
 }
